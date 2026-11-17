@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20261117-1721-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.5.0"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="laptopwindow-ig"
+	OSRelease="6.18.58.1-microsoft-standard-WSL2"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Tue Oct 27 00:24:11 UTC 2026"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ModelName="Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="7876"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2495.999023"
+	>
+	<Testing>
+		<StartDateTime>Nov 17 12:23 EST</StartDateTime>
+		<StartTestTime>1794936191</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 17 12:23 EST</EndDateTime>
+		<EndTestTime>1794936191</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

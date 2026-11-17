@@ -1,0 +1,7 @@
+/mnt/c/users/Isaac/documents/c++/problem10/build/CMakeFiles/problem10_tests.dir
+/mnt/c/users/Isaac/documents/c++/problem10/build/CMakeFiles/direct_download.dir
+/mnt/c/users/Isaac/documents/c++/problem10/build/CMakeFiles/submission.dir
+/mnt/c/users/Isaac/documents/c++/problem10/build/CMakeFiles/visualize.dir
+/mnt/c/users/Isaac/documents/c++/problem10/build/CMakeFiles/test.dir
+/mnt/c/users/Isaac/documents/c++/problem10/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/Isaac/documents/c++/problem10/build/CMakeFiles/rebuild_cache.dir
